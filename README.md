@@ -30,5 +30,5 @@ Sigue los siguientes pasos para instalar y ejecutar el proyecto:
 
 1. Use el siguiente comando en la terminal de comandos desde C:\Usuarios:
    ```
-   git clone https://github.com/tu-usuario/heladeria-flask.git
+   git clone https://github.com/camiloroa112/PROYECTO2-CA.ROAC.git
    ```
